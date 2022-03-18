@@ -1,5 +1,5 @@
 # google_contacts_people_api
-Google contacts with People API, my google contacts script edited to work with People API, you can compare this script with my older script which is based on Contacts API
+Google contacts with People API, my google contacts script edited to work with People API, you can compare this script with my older script which is based on Contacts API (Stopped working on 19th January 2022)
 
 My script uses People API to get all data that I need from proper group
 
