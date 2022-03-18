@@ -22,7 +22,7 @@ To install the Google client library for Python, run the following command:
  
  Step 2: Create project, you can use test account if you don't want to verify project
  https://developers.google.com/workspace/guides/create-project
- Step 3: Crate credentials file (credentials.json) for desktop app. - When ou download file, you need to rename it to: credentials.json in order for this script to work.
+ Step 3: Crate credentials file (credentials.json) for desktop app. - When you download file, you need to rename it to: credentials.json in order for this script to work.
  https://developers.google.com/workspace/guides/create-credentials
  Step 4: Run my script
 
