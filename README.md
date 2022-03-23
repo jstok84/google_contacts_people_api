@@ -3,7 +3,7 @@ Google contacts with People API, my google contacts script edited to work with P
 
 My script uses People API to get all data that I need from specified group.
 
-Link to my old script: https://github.com/jstok84/google_contacts_people_api
+Link to my old script: https://github.com/jstok84/python_script_google_contacts
 
 Prerequisites
 To run this script you need the following prerequisites:
